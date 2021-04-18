@@ -13,15 +13,12 @@ Using [IMDB API](https://developer.imdb.com/documentation)
 - Kingfisher For Images Downloading and Caching
 - XIB Files
 
-## Demo GIF
-<img src="">
-
 ## Screenshots
 - Main Screen
-<img src="">
+<img src="/screenshots/main.png">
 
 - Movie Details
-<img src="">
+<img src="/screenshots/details.png">
 
 ## App Structure:
 * App
