@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.1)
+  - IQKeyboardManager (6.5.6)
+  - Kingfisher (6.1.1)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SKActivityIndicatorView (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - Kingfisher
+  - RxCocoa
+  - RxSwift
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SKActivityIndicatorView: 81c123380127ad497f9b57cd4d11347e40ab3427
+
+PODFILE CHECKSUM: 07774e693c54f1504140ab1220badad70cb311f3
+
+COCOAPODS: 1.10.1
