@@ -15,10 +15,10 @@ Using [IMDB API](https://developer.imdb.com/documentation)
 
 ## Screenshots
 - Main Screen
-<img src="/screenshots/main.png">
+<img src="/screenshots/main.png" width="200" height="400">
 
 - Movie Details
-<img src="/screenshots/details.png">
+<img src="/screenshots/details.png" width="200" height="400">
 
 ## App Structure:
 * App
