@@ -10,5 +10,4 @@ target 'Popcorn' do
     pod 'Kingfisher'
     pod 'RxSwift'
     pod 'RxCocoa'
-    pod 'SKActivityIndicatorView' 
 end
